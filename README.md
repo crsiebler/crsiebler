@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Cory Siebler
 
-<!--
-**crsiebler/crsiebler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Developer with extensive experience in building and maintaining large-scale applications. My work has spanned several high-profile projects, including:
 
-Here are some ideas to get you started:
+- **[Angel.com](Angel.com) for Angel Studios**
+- **[Space Network Grounds Segment Sustainment (SGSS)](https://gdmissionsystems.com/satellite-ground-systems/space-network-ground-segment-sustainment) for General Dynamics**
+- **[Nextiva VoIP](https://www.nextiva.com/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can learn more about me and my work on my [personal website](https://corysiebler.com).
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **React** (specializing in **Next.js** with **Tailwind**)
+- **GraphQL**
+- **TypeScript**
+
+### Backend
+- **Python**
+- **PHP**
+- **Java**
+
+### Currently Learning
+- **GO**
+- **Rust**
+
+## 🚀 Projects
+
+Here are some of the projects I've contributed to:
+
+- **Angel.com**: Developed and maintained the web platform for Angel Studios.
+- **SGSS**: Worked on sustaining the Space Network Grounds Segment for General Dynamics.
+- **Nextiva VoIP**: Contributed to the development of VoIP solutions for Nextiva.
+
+## 📫 Get in Touch
+
+- Personal Website: [corysiebler.com](https://corysiebler.com)
+- LinkedIn: [Cory Siebler](https://www.linkedin.com/in/corysiebler)
+- GitHub: [@corysiebler](https://github.com/corysiebler)
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
