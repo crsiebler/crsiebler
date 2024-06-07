@@ -36,6 +36,6 @@ Here are some of the projects I've contributed to:
 
 - Personal Website: [corysiebler.com](https://corysiebler.com)
 - LinkedIn: [Cory Siebler](https://www.linkedin.com/in/corysiebler)
-- GitHub: [@corysiebler](https://github.com/corysiebler)
+- GitHub: [@crsiebler](https://github.com/crsiebler)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
