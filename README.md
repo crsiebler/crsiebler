@@ -21,8 +21,7 @@ You can learn more about me and my work on my [personal website](https://corysie
 - **Java**
 
 ### Currently Learning
-- **GO**
-- **Rust**
+- **Elixir**
 
 ## 🚀 Projects
 
