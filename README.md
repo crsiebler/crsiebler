@@ -2,8 +2,8 @@
 
 I'm a Senior Software Developer with extensive experience in building and maintaining large-scale applications. My work has spanned several high-profile projects, including:
 
-- **[GroundsControl.com](groundscontrol.com) for local commercial landscape company**
-- **[Angel.com](Angel.com) for Angel Studios**
+- **[GroundsControl.com](https://groundscontrol.com) for local commercial landscape company**
+- **[Angel.com](https://angel.com) for Angel Studios**
 - **[Space Network Grounds Segment Sustainment (SGSS)](https://gdmissionsystems.com/satellite-ground-systems/space-network-ground-segment-sustainment) for General Dynamics**
 - **[Nextiva VoIP](https://www.nextiva.com/)**
 
