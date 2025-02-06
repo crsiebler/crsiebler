@@ -27,6 +27,7 @@ You can learn more about me and my work on my [personal website](https://corysie
 
 Here are some of the projects I've contributed to:
 
+- **GroundsControl.com**: Designed and developed custom website from the ground up.
 - **Angel.com**: Developed and maintained the web platform for Angel Studios.
 - **SGSS**: Worked on sustaining the Space Network Grounds Segment for General Dynamics.
 - **Nextiva VoIP**: Contributed to the development of VoIP solutions for Nextiva.
