@@ -6,6 +6,7 @@ I'm a Senior Software Developer with extensive experience in building and mainta
 - **[Angel.com](https://angel.com) for Angel Studios**
 - **[Space Network Grounds Segment Sustainment (SGSS)](https://gdmissionsystems.com/satellite-ground-systems/space-network-ground-segment-sustainment) for General Dynamics**
 - **[Nextiva VoIP](https://www.nextiva.com/)**
+- **[Credit Mobility](https://demo.creditmobility.net/)
 
 You can learn more about me and my work on my [personal website](https://corysiebler.com).
 
@@ -13,8 +14,10 @@ You can learn more about me and my work on my [personal website](https://corysie
 
 ### Frontend
 - **React** (specializing in **Next.js** with **Tailwind**)
+- **Vue**
 - **GraphQL**
 - **TypeScript**
+- **Tailwind CSS*
 
 ### Backend
 - **Python**
