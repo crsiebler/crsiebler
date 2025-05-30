@@ -13,11 +13,12 @@ You can learn more about me and my work on my [personal website](https://corysie
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **React** (specializing in **Next.js** with **Tailwind**)
-- **Vue**
+- **React.js**
+- **Next.js**
+- **Vue.js**
 - **GraphQL**
 - **TypeScript**
-- **Tailwind CSS*
+- **Tailwind CSS**
 
 ### Backend
 - **Python**
@@ -35,6 +36,7 @@ Here are some of the projects I've contributed to:
 - **Angel.com**: Developed and maintained the web platform for Angel Studios.
 - **SGSS**: Worked on sustaining the Space Network Grounds Segment for General Dynamics.
 - **Nextiva VoIP**: Contributed to the development of VoIP solutions for Nextiva.
+- **Credit Mobility**: Lead development of EdTech solutions for post k-12 institutions.
 
 ## 📫 Get in Touch
 
