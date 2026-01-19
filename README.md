@@ -1,47 +1,79 @@
 # 👋 Hi, I'm Cory Siebler
 
-I'm a Senior Software Developer with extensive experience in building and maintaining large-scale applications. My work has spanned several high-profile projects, including:
+AI-empowered software developer | Autonomous Agent Builder | Innovator in Developer Workflows
 
-- **[GroundsControl.com](https://groundscontrol.com) for local commercial landscape company**
-- **[Angel.com](https://angel.com) for Angel Studios**
-- **[Space Network Grounds Segment Sustainment (SGSS)](https://gdmissionsystems.com/satellite-ground-systems/space-network-ground-segment-sustainment) for General Dynamics**
-- **[Nextiva VoIP](https://www.nextiva.com/)**
-- **[Credit Mobility](https://demo.creditmobility.net/) for OneOrigin and Arizona State University.**
+---
 
-You can learn more about me and my work on my [personal website](https://corysiebler.com).
+## ⚡ What Drives Me
 
-## 🛠️ Tech Stack
+I’m a developer passionate about leveraging and building the next generation of AI agents and tools. I use LLM-powered agents (OpenAI, LangChain, Crew AI) in daily workflows, continuously exploring the evolving landscape of prompt engineering, agent automation, and developer-augmenting AI patterns. I’m currently learning ML model training, instruction-tuned LLMs, and am diving deep into Retrieval-Augmented Generation (RAG).
 
-### Frontend
-- **React.js**
-- **Next.js**
-- **Vue.js**
-- **GraphQL**
-- **TypeScript**
-- **Tailwind CSS**
+---
 
-### Backend
-- **Python**
-- **PHP**
-- **Java**
+## 🚀 Featured AI & Agent Projects
 
-### Currently Learning
-- **Elixir**
+- **[Alexa Chatbot Encyclopedia](https://github.com/crsiebler/alexa-chatbot-conversation)**
+  Created an Alexa skill-powered home encyclopedia using OpenAI LLMs—enabling natural, conversational access to the world's knowledge.
 
-## 🚀 Projects
+- **[MCP Suite](https://github.com/crsiebler/mcp-suite)**
+  Building an MCP server platform for autonomous AI agent orchestration—making agent-powered workflows accessible across devices and services.
 
-Here are some of the projects I've contributed to:
+- **GroundsControl.com**, **Angel.com (Angel Studios)**, **SGSS (General Dynamics)**, **Nextiva VoIP**, **Credit Mobility**
 
-- **GroundsControl.com**: Designed and developed custom website from the ground up.
-- **Angel.com**: Developed and maintained the web platform for Angel Studios.
-- **SGSS**: Worked on sustaining the Space Network Grounds Segment for General Dynamics.
-- **Nextiva VoIP**: Contributed to the development of VoIP solutions for Nextiva.
-- **Credit Mobility**: Lead development of EdTech solutions for post k-12 institutions.
+  _Classic projects—led or contributed to high-impact web platforms across industries._
+
+---
+
+## 🛠️ AI & Dev Tooling
+
+- **LLM Agents**: OpenAI API, LangChain, Crew AI, experimenting with Ralph-style agent loops
+- **Core Stack**: TypeScript, Python, React.js, Next.js, Vue.js
+- **DevOps/MLOps**: Docker, AWS, GitHub Actions, Playwright CI
+- **Focus**: Architectural clarity, high developer efficiency, automating routine tasks with AI agents
+- **AI Philosophy**: My approach is "AI-augmented by default"—I use AI agents not just to code, but to orchestrate architectures, draft PRDs, and solve problems creatively.
+
+---
+
+## 💭 Prompt Engineering & AI Looping
+
+I am actively refining prompt engineering techniques, constantly exploring the power (and boundaries) of developer-first autonomous agent loops. Ongoing areas of interest include emergent prompt patterns and the practical deployment of multi-agent systems for real-world productivity gains.
+
+---
+
+## 🌱 Currently Exploring
+
+- Fine-tuning language models for instruction following and niche tasks
+- Retrieval-Augmented Generation (RAG) for smarter context-aware agents
+- Semantic search & vector databases (Pinecone, ChromaDB)
+- Improving developer productivity with AI-augmented workflows
+
+---
+
+## 🛠️ Classic Tech Stack
+
+- **Frontend:** React, Next.js, Vue, GraphQL, TypeScript, Tailwind CSS
+- **Backend:** Python, PHP, Java
+- **DevOps:** Docker, AWS, GitHub Actions
+- **Testing:** Playwright (CI/CD)
+- **Learning:** Elixir
+
+---
 
 ## 📫 Get in Touch
 
-- Personal Website: [corysiebler.com](https://corysiebler.com)
-- LinkedIn: [Cory Siebler](https://www.linkedin.com/in/corysiebler)
-- GitHub: [@crsiebler](https://github.com/crsiebler)
+- **Personal Website**: [corysiebler.com](https://corysiebler.com)
+- **LinkedIn**: [Cory Siebler](https://www.linkedin.com/in/corysiebler)
+- **GitHub**: [@crsiebler](https://github.com/crsiebler)
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+---
+
+## ☁️ Let’s Build the Future
+
+If you have ideas about AI agent infrastructure, autonomous developer workflows, or want to collaborate—let’s connect! Exploring and open to PRs on current agent projects.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crsiebler&label=Profile+Views&color=blue" alt="Profile views"/>&nbsp;
+  <img src="https://img.shields.io/badge/Ask%20Me%20About-AI%20Agents-dd00ff"/>
+</p>
