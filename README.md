@@ -18,9 +18,15 @@ I’m a developer passionate about leveraging and building the next generation o
 - **[MCP Suite](https://github.com/crsiebler/mcp-suite)**
   Building an MCP server platform for autonomous AI agent orchestration—making agent-powered workflows accessible across devices and services.
 
-- **GroundsControl.com**, **Angel.com (Angel Studios)**, **SGSS (General Dynamics)**, **Nextiva VoIP**, **Credit Mobility**
+---
 
-  _Classic projects—led or contributed to high-impact web platforms across industries._
+## 📂 Portfolio
+
+- **[GroundsControl.com](https://groundscontrol.com)** — Designed and developed custom website for a commercial landscaping company.
+- **[Angel.com](https://angel.com)** — Developed and maintained the web platform for Angel Studios.
+- **[Space Network Ground Segment Sustainment (SGSS)](https://gdmissionsystems.com/satellite-ground-systems/space-network-ground-segment-sustainment)** — Sustaining mission-critical satellite ground segment solutions for General Dynamics.
+- **[Nextiva VoIP](https://www.nextiva.com/)** — Contributed to VoIP platform development.
+- **[Credit Mobility](https://demo.creditmobility.net/)** — Lead developer on EdTech solutions for post K-12 institutions (ASU, OneOrigin).
 
 ---
 
