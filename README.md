@@ -6,7 +6,7 @@ AI-empowered software developer | Autonomous Agent Builder | Innovator in Develo
 
 ## ⚡ What Drives Me
 
-I’m a developer passionate about leveraging and building the next generation of AI agents and tools. I use LLM-powered agents (OpenAI, LangChain, Crew AI) in daily workflows, continuously exploring the evolving landscape of prompt engineering, agent automation, and developer-augmenting AI patterns. I’m currently learning ML model training, instruction-tuned LLMs, and am diving deep into Retrieval-Augmented Generation (RAG).
+I’m a developer passionate about leveraging and building the next generation of AI agents and tools. I use LLM-powered agents (OpenAI, OpenCode) in daily workflows and actively explore autonomous agent frameworks (especially Agent Zero). I’m continuously improving my prompt engineering skills and exploring developer-augmenting AI patterns. I am currently learning ML model training and instruction-tuned LLMs, and am diving deep into Retrieval-Augmented Generation (RAG).
 
 ---
 
@@ -26,7 +26,7 @@ I’m a developer passionate about leveraging and building the next generation o
 
 ## 🛠️ AI & Dev Tooling
 
-- **LLM Agents**: OpenAI API, LangChain, Crew AI, experimenting with Ralph-style agent loops
+- **LLM Agents & Agents**: OpenAI API, OpenCode (for AI-powered development), Agent Zero (autonomous AI Agents), experimenting with Ralph-style agent loops
 - **Core Stack**: TypeScript, Python, React.js, Next.js, Vue.js
 - **DevOps/MLOps**: Docker, AWS, GitHub Actions, Playwright CI
 - **Focus**: Architectural clarity, high developer efficiency, automating routine tasks with AI agents
