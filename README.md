@@ -6,7 +6,7 @@ AI-empowered software developer | Autonomous Agent Builder | Innovator in Develo
 
 ## ⚡ What Drives Me
 
-I’m a developer passionate about leveraging and building the next generation of AI agents and tools. I use LLM-powered agents (OpenAI, OpenCode) in daily workflows and actively explore autonomous agent frameworks (especially Agent Zero). I’m continuously improving my prompt engineering skills and exploring developer-augmenting AI patterns. I am currently learning ML model training and instruction-tuned LLMs, and am diving deep into Retrieval-Augmented Generation (RAG).
+I’m a developer passionate about leveraging and building the next generation of AI agents and tools. I use LLM-powered agents (OpenAI, OpenCode) in daily workflows and actively explore autonomous agent frameworks. I’m continuously improving my prompt engineering skills and exploring developer-augmenting AI patterns. I am currently learning ML model training and instruction-tuned LLMs, and am diving deep into Retrieval-Augmented Generation (RAG).
 
 ---
 
@@ -32,7 +32,7 @@ I’m a developer passionate about leveraging and building the next generation o
 
 ## 🛠️ AI & Dev Tooling
 
-- **LLM Agents & Agents**: OpenAI API, OpenCode (for AI-powered development), Agent Zero (autonomous AI Agents), experimenting with Ralph-style agent loops
+- **LLM Agents & Agents**: OpenAI API, OpenCode (for AI-powered development), experimenting with Ralph-style agent loops
 - **Core Stack**: TypeScript, Python, React.js, Next.js, Vue.js
 - **DevOps/MLOps**: Docker, AWS, GitHub Actions, Playwright CI
 - **Focus**: Architectural clarity, high developer efficiency, automating routine tasks with AI agents
@@ -52,6 +52,7 @@ I am actively refining prompt engineering techniques, constantly exploring the p
 - Retrieval-Augmented Generation (RAG) for smarter context-aware agents
 - Semantic search & vector databases (Pinecone, ChromaDB)
 - Improving developer productivity with AI-augmented workflows
+- Setting up my Moltbot to explore AI as my personal assistant—who doesn’t want their own Jarvis?
 
 ---
 
