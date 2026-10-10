@@ -187,6 +187,5 @@ Have something worth building? Let’s talk about your next project, an engineer
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crsiebler&label=Profile+Views&color=087866&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Ask_Me_About-AI_Agents-087866?style=for-the-badge" alt="Ask me about AI agents" />
 </p>
