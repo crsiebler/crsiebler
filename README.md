@@ -99,13 +99,13 @@ I use prompt-driven workflows to clarify product requirements, plan implementati
   <img src="https://img.shields.io/badge/FastAPI-152231?style=for-the-badge&logo=fastapi&logoColor=79DEC5" alt="FastAPI" />
   <img src="https://img.shields.io/badge/SQLAlchemy-152231?style=for-the-badge&logo=sqlalchemy&logoColor=79DEC5" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/PHP-152231?style=for-the-badge&logo=php&logoColor=79DEC5" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-152231?style=for-the-badge" alt="Java" />
+  <img src="assets/badges/java.svg" alt="Java" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-152231?style=for-the-badge" alt="Amazon Web Services" />
+  <img src="assets/badges/aws.svg" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/Docker-152231?style=for-the-badge&logo=docker&logoColor=79DEC5" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-152231?style=for-the-badge&logo=githubactions&logoColor=79DEC5" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Kubernetes-152231?style=for-the-badge&logo=kubernetes&logoColor=79DEC5" alt="Kubernetes" />
@@ -118,7 +118,7 @@ I use prompt-driven workflows to clarify product requirements, plan implementati
 ### Testing
 
 <p>
-  <img src="https://img.shields.io/badge/Playwright-152231?style=for-the-badge" alt="Playwright" />
+  <img src="assets/badges/playwright.svg" alt="Playwright" />
   <img src="https://img.shields.io/badge/Vitest-152231?style=for-the-badge&logo=vitest&logoColor=79DEC5" alt="Vitest" />
   <img src="https://img.shields.io/badge/Jest-152231?style=for-the-badge&logo=jest&logoColor=79DEC5" alt="Jest" />
   <img src="https://img.shields.io/badge/Cypress-152231?style=for-the-badge&logo=cypress&logoColor=79DEC5" alt="Cypress" />
@@ -128,7 +128,7 @@ I use prompt-driven workflows to clarify product requirements, plan implementati
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-152231?style=for-the-badge&logo=postgresql&logoColor=79DEC5" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-152231?style=for-the-badge" alt="Oracle Database" />
+  <img src="assets/badges/oracle.svg" alt="Oracle Database" />
   <img src="https://img.shields.io/badge/MongoDB-152231?style=for-the-badge&logo=mongodb&logoColor=79DEC5" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-152231?style=for-the-badge&logo=redis&logoColor=79DEC5" alt="Redis" />
 </p>
